@@ -1,0 +1,30 @@
+exitQuotes = ["Remember, quitting while you're ahead is the real jackpot—just don’t tell anyone you actually did it. Have a great day!",
+              "Remember, the house always wins—unless, of course, you leave right now. Have a great day!",
+              "Quitting isn’t losing—it’s just postponing your next attempt at greatness. Have a great day!",
+              "They say fortune favors the bold, but sometimes, fortune just wants you to go home. Have a great day!",
+              "You beat the odds—by deciding to stop fighting them. Have a great day!",
+              "The best way to double your money? Fold it and walk out the door. Have a great day!",
+              "Luck may be fickle, but self-control is priceless. Have a great day!",
+              "Don’t worry—the dice will miss you as much as you miss them. Have a great day!",
+              "You’re leaving with cash and dignity—rare treasures in this establishment. Have a great day!",
+              "Remember, the best bet is knowing when to stop. Have a great day!",
+              "It’s not losing if you stop pretending you were winning. Have a great day!",
+              "At least you’re leaving with some of your dignity. Have a great day!",
+              "Don’t feel bad—the casino lights were paid for long before you walked in. Have a great day!",
+              "Just think—every loss here was a win for someone who doesn’t gamble. Have a great day!",
+              "Don’t worry—the casino will still be here when you want to lose the rest. Have a great day!",
+              "Don’t worry, losing everything just takes one more hand—you’re quitting too early. Have a great day!",
+              "They say the house always wins, but you? You didn’t even give it a fight. Have a great day!",
+              "Remember, you’re not walking away a winner—you’re just walking away. Have a great day!",
+              "If you think this is bad, wait until you check your credit card bill. Have a great day!",
+              "You’re proof that hope dies slower than a gambler’s wallet. Have a great day!",
+              "It’s okay—the casino needed your money more than you did. Have a great day!",
+              "Look on the bright side—at least you can’t lose what you don’t have anymore. Have a great day!",
+              "Life’s a gamble, but you? You’re making it a losing streak. Have a great day!"
+]
+
+depressingExitQuotes = ["Look on the bright side—now you’re free from the burden of hope. Have a great day!",
+                        "Don't worry, you're just another cautionary tale in the making. Have a great day!",
+                        "Well, at least you can't lose what you don’t have anymore. Have a great day!",
+                        "Think of this as a spiritual cleanse—you’re now broke and enlightened. Have a great day!"
+]
